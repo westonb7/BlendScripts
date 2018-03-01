@@ -4,7 +4,7 @@ Here's just a quick sample script for running a blending function and plotting i
 
 ## Prerequisites
 
-This will require python3, jupyter, and matplotlib to be installed. It will also require numpy, but numpy should be auto-installed when mmatplotlib is.
+This will require python3, jupyter, and matplotlib to be installed. It will also require numpy, but numpy should be auto-installed when matplotlib is.
 
 ## Running the script from jupyter
 
